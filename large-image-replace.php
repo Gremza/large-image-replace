@@ -5,13 +5,13 @@
  * @package       LARGEIMAGE
  * @author        marsel preci
  * @license       gplv2
- * @version       1.0.1
+ * @version       10.6.9
  *
  * @wordpress-plugin
  * Plugin Name:   Large Image Replace
  * Plugin URI:    https://gremza.com
  * Description:   If you want to save storage and not import images bigger than the large size of wp. This plugin with help. It replace original file with the large size generated. It saves a ton of space espacialu for the webesites that use a lot of images.
- * Version:       1.0.0
+ * Version:       10.6.9
  * Author:        marsel preci
  * Author URI:    https://gremza.com
  * Text Domain:   large-image-replace
